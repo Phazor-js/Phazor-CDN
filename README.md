@@ -1,2 +1,2 @@
-# Phazor-CDN
-Phazor.js CDN Beta
+# CDN Branch 
+`cdn`
