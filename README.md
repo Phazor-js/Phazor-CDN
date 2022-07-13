@@ -1,2 +1,1 @@
-# CDN Branch 
-`cdn`
+# Archived for now
